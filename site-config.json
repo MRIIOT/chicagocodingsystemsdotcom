@@ -3,6 +3,7 @@
     "name": "Chicago Coding Systems",
     "firstName": "Chicago Coding",
     "lastName": "Systems",
+    "profileType": "company",
     "title": "Custom Solutions for Modern Manufacturing",
     "tagline": "We provide customized solutions for product marking & coding, labeling, and scanning for countless manufacturers, and within many different industries.",
     "shortBio": "Chicago Coding Systems has specialized in the research, development, and manufacturing of marking, coding, and labeling technologies for over 60 years. Our knowledge and experience allows us to meet our customer's needs by providing them with quality service and products.",
@@ -11,11 +12,11 @@
     "location": "St. Charles, Illinois"
   },
   "contact": {
-    "email": "",
+    "email": "info@chicagocoding.com",
     "phone": "(630) 377-4664",
     "website": "https://chicagocoding.com",
     "calendlyUrl": "",
-    "responseTime": "4-hour response guarantee"
+    "responseTime": "Usually within 24 hours"
   },
   "social": {
     "linkedin": "https://www.linkedin.com/company/chicago-coding-systems/",
@@ -35,8 +36,8 @@
       "secondary": "#f5f5f5",
       "accent": "#e74c3c",
       "text": "#1a1a1a",
-      "textMuted": "#666666",
-      "border": "rgba(0, 0, 0, 0.1)"
+      "textMuted": "#999999",
+      "border": "rgba(255, 255, 255, 0.1)"
     }
   },
   "heroSlides": [
@@ -87,7 +88,7 @@
       ]
     },
     {
-      "icon": "fas fa-tags",
+      "icon": "fas fa-search",
       "title": "Contract Labeling",
       "shortDesc": "From design to print and apply, CCS offers flexible contract labeling with the tools, time, and infrastructure to fit your needs.",
       "fullDesc": "From design to print and apply, CCS offers flexible contract labeling with the tools, time, and infrastructure to fit your needs. Whether you need short-run or high-volume labeling, our contract labeling services provide the flexibility and quality your production demands.",
@@ -99,7 +100,7 @@
       ]
     },
     {
-      "icon": "fas fa-print",
+      "icon": "fas fa-search",
       "title": "Printing Services",
       "shortDesc": "CCS Print Services scale with your needs, delivering high-quality printing, variable data, and rental options to keep your projects running smoothly.",
       "fullDesc": "CCS Print Services scale with your needs, delivering high-quality printing, variable data, and rental options to keep your projects running smoothly. Our printing capabilities cover everything from simple labels to complex variable data printing for regulatory compliance.",
@@ -111,7 +112,7 @@
       ]
     },
     {
-      "icon": "fas fa-boxes",
+      "icon": "fas fa-search",
       "title": "Inventory Management",
       "shortDesc": "Partnering with CCS means your coding and labeling supplies are always on hand, giving you consistent, hassle-free stock management.",
       "fullDesc": "Partnering with CCS means your coding and labeling supplies are always on hand, giving you consistent, hassle-free stock management. We monitor your usage patterns and maintain optimal inventory levels so you never face production delays due to missing supplies.",
@@ -123,7 +124,7 @@
       ]
     },
     {
-      "icon": "fas fa-clipboard-check",
+      "icon": "fas fa-search",
       "title": "Consulting Services",
       "shortDesc": "Tailored guidance on print technologies, compliance, and line integration, helping your projects run smoothly from the start.",
       "fullDesc": "At CCS, we deliver tailored guidance on print technologies, compliance, and line integration, helping your projects run smoothly from the start. Our consultants bring decades of experience across multiple industries to recommend the right solutions for your specific requirements.",
@@ -260,12 +261,12 @@
   ],
   "philosophy": [
     {
-      "icon": "fas fa-eye",
+      "icon": "fas fa-search",
       "title": "Vision",
       "description": "CCS strives to be the leading provider of integrated solutions in the marking, coding, and labeling industries."
     },
     {
-      "icon": "fas fa-bullseye",
+      "icon": "fas fa-search",
       "title": "Mission",
       "description": "Through the technical expertise and dedication of our employees, CCS delivers innovative solutions to exceed customer expectations and constantly strives to raise the industry standard."
     },
@@ -275,12 +276,12 @@
       "description": "We care about our customers and value all the relationships we have built over the years. We provide honest evaluations and focus on helping our customers grow and improve."
     },
     {
-      "icon": "fas fa-handshake",
+      "icon": "fas fa-search",
       "title": "Commitment",
       "description": "We are committed to our employees, customers, and the industries we serve. Our dedication to researching new technologies helps us provide the best solutions possible."
     },
     {
-      "icon": "fas fa-leaf",
+      "icon": "fas fa-search",
       "title": "Responsibility",
       "description": "We make ethical, sound decisions in our business and for the environment."
     },
