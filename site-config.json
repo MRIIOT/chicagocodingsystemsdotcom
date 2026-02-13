@@ -1,0 +1,455 @@
+{
+  "personal": {
+    "name": "Chicago Coding Systems",
+    "firstName": "Chicago Coding",
+    "lastName": "Systems",
+    "title": "Custom Solutions for Modern Manufacturing",
+    "tagline": "We provide customized solutions for product marking & coding, labeling, and scanning for countless manufacturers, and within many different industries.",
+    "shortBio": "Chicago Coding Systems has specialized in the research, development, and manufacturing of marking, coding, and labeling technologies for over 60 years. Our knowledge and experience allows us to meet our customer's needs by providing them with quality service and products.",
+    "fullBio": "Chicago Coding Systems has specialized in the research, development, and manufacturing of marking, coding, and labeling technologies for over 60 years. Our knowledge and experience allows us to meet our customer's needs by providing them with quality service and products. We diligently research the market for new technologies that allow us to create the best solutions available for our customers. We strive to bring people, ideas and technology together.\n\nOur goal is to provide consultations, technical support, and innovative, custom solutions that exceed client expectations. Our solution-oriented approach drives us to surpass client expectations, and helps to build long-lasting partnerships.\n\nWith over half a century of industry experience, countless custom solutions across the nation, and a shared passion for excellence and automation, the Chicago Coding team will accelerate your production and be there to provide lasting support.",
+    "yearsExperience": "60+",
+    "location": "St. Charles, Illinois"
+  },
+  "contact": {
+    "email": "",
+    "phone": "(630) 377-4664",
+    "website": "https://chicagocoding.com",
+    "calendlyUrl": "",
+    "responseTime": "4-hour response guarantee"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/chicago-coding-systems/",
+    "twitter": "",
+    "github": "",
+    "instagram": "https://www.instagram.com/chicagocodingsystems/",
+    "youtube": "https://www.youtube.com/channel/UCatHCtleZwCxmCs_DNKPY0w",
+    "facebook": "https://www.facebook.com/chicagocodingsystems"
+  },
+  "branding": {
+    "siteName": "Chicago Coding Systems",
+    "logoUrl": "https://chicagocoding.com/wp-content/uploads/2025/11/CCS_logo.svg",
+    "faviconUrl": "",
+    "lightTheme": true,
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#f5f5f5",
+      "accent": "#e74c3c",
+      "text": "#1a1a1a",
+      "textMuted": "#666666",
+      "border": "rgba(0, 0, 0, 0.1)"
+    }
+  },
+  "heroSlides": [
+    {
+      "image": "https://chicagocoding.com/wp-content/uploads/2025/07/Custom-Solutions.jpg",
+      "subtitle": "Creative Problem Solving",
+      "title": "Custom Solutions for Modern Manufacturing",
+      "description": "We provide customized solutions for product marking & coding, labeling, and scanning for countless manufacturers, and within many different industries.",
+      "buttonText": "Get Solutions",
+      "buttonLink": "contact-us/"
+    },
+    {
+      "image": "https://chicagocoding.com/wp-content/uploads/2025/06/brown-box_marking.jpg",
+      "subtitle": "Marking & Coding",
+      "title": "Precision Marking & Coding",
+      "description": "Printing permanent or semi-permanent identifiers such as logos, serial numbers, or lot codes directly onto products or packaging for traceability and branding.",
+      "buttonText": "Learn More",
+      "buttonLink": "custom-solutions/marking-coding/"
+    },
+    {
+      "image": "https://chicagocoding.com/wp-content/uploads/2025/06/bottle-label.jpg",
+      "subtitle": "Labeling Solutions",
+      "title": "Automated Labeling Systems",
+      "description": "Securely attaching pre-printed or dynamically generated labels to products or packaging, providing essential information like ingredients, safety warnings, or branding.",
+      "buttonText": "Learn More",
+      "buttonLink": "custom-solutions/labeling/"
+    },
+    {
+      "image": "https://chicagocoding.com/wp-content/uploads/2025/06/barcode-scan.jpg",
+      "subtitle": "Scanning Solutions",
+      "title": "Industrial Scanning & Verification",
+      "description": "Proficient optical devices read printed or labeled codes, enabling real-time tracking, quality checks, and automated sorting on the production line.",
+      "buttonText": "Learn More",
+      "buttonLink": "custom-solutions/scanning/"
+    }
+  ],
+  "services": [
+    {
+      "icon": "fas fa-headset",
+      "title": "Support Services",
+      "shortDesc": "24/7 expert support with a 4-hour response guarantee, giving you reliable help whenever and however you need it.",
+      "fullDesc": "Chicago Coding Systems delivers 24/7 expert support with a 4-hour response guarantee, giving you reliable help whenever and however you need it. Our dedicated team ensures your production lines stay running with minimal downtime through rapid response and expert troubleshooting.",
+      "features": [
+        "24/7 availability",
+        "4-hour response guarantee",
+        "Expert troubleshooting",
+        "Remote and on-site support"
+      ]
+    },
+    {
+      "icon": "fas fa-tags",
+      "title": "Contract Labeling",
+      "shortDesc": "From design to print and apply, CCS offers flexible contract labeling with the tools, time, and infrastructure to fit your needs.",
+      "fullDesc": "From design to print and apply, CCS offers flexible contract labeling with the tools, time, and infrastructure to fit your needs. Whether you need short-run or high-volume labeling, our contract labeling services provide the flexibility and quality your production demands.",
+      "features": [
+        "Design to application",
+        "Flexible volumes",
+        "Quality assurance",
+        "Fast turnaround"
+      ]
+    },
+    {
+      "icon": "fas fa-print",
+      "title": "Printing Services",
+      "shortDesc": "CCS Print Services scale with your needs, delivering high-quality printing, variable data, and rental options to keep your projects running smoothly.",
+      "fullDesc": "CCS Print Services scale with your needs, delivering high-quality printing, variable data, and rental options to keep your projects running smoothly. Our printing capabilities cover everything from simple labels to complex variable data printing for regulatory compliance.",
+      "features": [
+        "Scalable printing",
+        "Variable data support",
+        "Equipment rental options",
+        "High-quality output"
+      ]
+    },
+    {
+      "icon": "fas fa-boxes",
+      "title": "Inventory Management",
+      "shortDesc": "Partnering with CCS means your coding and labeling supplies are always on hand, giving you consistent, hassle-free stock management.",
+      "fullDesc": "Partnering with CCS means your coding and labeling supplies are always on hand, giving you consistent, hassle-free stock management. We monitor your usage patterns and maintain optimal inventory levels so you never face production delays due to missing supplies.",
+      "features": [
+        "Automated restocking",
+        "Usage monitoring",
+        "Supply chain reliability",
+        "Cost optimization"
+      ]
+    },
+    {
+      "icon": "fas fa-clipboard-check",
+      "title": "Consulting Services",
+      "shortDesc": "Tailored guidance on print technologies, compliance, and line integration, helping your projects run smoothly from the start.",
+      "fullDesc": "At CCS, we deliver tailored guidance on print technologies, compliance, and line integration, helping your projects run smoothly from the start. Our consultants bring decades of experience across multiple industries to recommend the right solutions for your specific requirements.",
+      "features": [
+        "Technology guidance",
+        "Compliance consulting",
+        "Line integration planning",
+        "Vendor-neutral recommendations"
+      ]
+    },
+    {
+      "icon": "fas fa-cogs",
+      "title": "Custom Solutions",
+      "shortDesc": "Seamless marking, coding, and labeling systems built for your production needs.",
+      "fullDesc": "CCS delivers precision-engineered automated and semi-automated marking, coding, and labeling systems tailored to your unique production needs. We begin with a foundation of proven, pre-configured solutions to accelerate implementation and enhance efficiency. From there, we tailor each system using advanced technologies from industry-leading brands to address your unique requirements.",
+      "features": [
+        "Custom engineering",
+        "Automated systems",
+        "Industry-leading brands",
+        "Turnkey solutions"
+      ]
+    }
+  ],
+  "solutions": [
+    {
+      "title": "Marking & Coding",
+      "description": "Whether you need batch coding, barcoding, or high-speed product marking, we deliver precision, reliability, and customization to meet your industry's unique requirements. Custom built solutions are engineered to increase productivity and save you money.",
+      "features": [
+        "Continuous inkjet",
+        "Laser coding",
+        "Thermal inkjet",
+        "TTO printers"
+      ]
+    },
+    {
+      "title": "Labeling",
+      "description": "From automated label application and print-and-apply systems to fully integrated labeling solutions, we deliver precision, reliability, and customization tailored to your production needs. Our solutions ensure accurate label application and reliable adhesion.",
+      "features": [
+        "Label applicators",
+        "Print-and-apply systems",
+        "Shrink sleeve labeling",
+        "Color label printing"
+      ]
+    },
+    {
+      "title": "Scanning",
+      "description": "Our scanning solutions provide accurate data capture, improve efficiency, minimize errors, and ensure dependable results for every production run using advanced industrial scanners and machine vision technology.",
+      "features": [
+        "Fixed industrial scanners",
+        "Machine vision systems",
+        "Barcode verification",
+        "Quality inspection"
+      ]
+    },
+    {
+      "title": "Software Development & Integration",
+      "description": "Custom software solutions that connect your labeling, coding, and scanning systems with your existing ERP, WMS, and MES platforms. Middleware integration without the need for major IT projects.",
+      "features": [
+        "ERP/WMS integration",
+        "Middleware solutions",
+        "Data connectivity",
+        "Custom software"
+      ]
+    },
+    {
+      "title": "Material Handling",
+      "description": "Material handling solutions designed to efficiently move, protect, and control materials throughout manufacturing and warehousing operations. Conveyors, reject stations, and packaging line components.",
+      "features": [
+        "Conveyor systems",
+        "Reject stations",
+        "Check weighing",
+        "Line automation"
+      ]
+    },
+    {
+      "title": "Products",
+      "description": "Versatile products designed to support your workflow and streamline operations. From label printers and applicators to scanners and vision systems from industry-leading brands.",
+      "features": [
+        "Label applicators",
+        "Print engines",
+        "Vision systems",
+        "Barcode software"
+      ]
+    }
+  ],
+  "focusAreas": {
+    "subheading": "Solutions",
+    "heading": "Areas of Expertise",
+    "tagline": "Marking • Coding • Labeling • Scanning",
+    "areas": [
+      {
+        "category": "MARKING",
+        "title": "Product Marking",
+        "image": "https://chicagocoding.com/wp-content/uploads/2025/06/brown-box_marking.jpg"
+      },
+      {
+        "category": "CODING",
+        "title": "Variable Data Coding",
+        "image": "https://chicagocoding.com/wp-content/uploads/2025/06/dietary-pills.jpg"
+      },
+      {
+        "category": "LABELING",
+        "title": "Label Application",
+        "image": "https://chicagocoding.com/wp-content/uploads/2025/06/bottle-label.jpg"
+      },
+      {
+        "category": "SCANNING",
+        "title": "Barcode Scanning",
+        "image": "https://chicagocoding.com/wp-content/uploads/2025/06/barcode-scan.jpg"
+      },
+      {
+        "category": "INTEGRATION",
+        "title": "Software & Systems",
+        "image": "https://chicagocoding.com/wp-content/uploads/2025/07/software-dev.jpg"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "period": "1960s",
+      "title": "Foundation",
+      "description": "Chicago Coding Systems was founded, beginning over 60 years of specialization in the research, development, and manufacturing of marking, coding, and labeling technologies."
+    },
+    {
+      "period": "2000s",
+      "title": "Expanding Solutions",
+      "description": "Grew into a full-service provider of custom automated and semi-automated systems, expanding capabilities across pharmaceutical, food & beverage, and logistics industries nationwide."
+    },
+    {
+      "period": "Present",
+      "title": "Industry Leader",
+      "description": "Delivering precision-engineered custom solutions across countless industries with 24/7 support, contract labeling, inventory management, and consulting services from our St. Charles, Illinois headquarters."
+    }
+  ],
+  "philosophy": [
+    {
+      "icon": "fas fa-eye",
+      "title": "Vision",
+      "description": "CCS strives to be the leading provider of integrated solutions in the marking, coding, and labeling industries."
+    },
+    {
+      "icon": "fas fa-bullseye",
+      "title": "Mission",
+      "description": "Through the technical expertise and dedication of our employees, CCS delivers innovative solutions to exceed customer expectations and constantly strives to raise the industry standard."
+    },
+    {
+      "icon": "fas fa-heart",
+      "title": "Values",
+      "description": "We care about our customers and value all the relationships we have built over the years. We provide honest evaluations and focus on helping our customers grow and improve."
+    },
+    {
+      "icon": "fas fa-handshake",
+      "title": "Commitment",
+      "description": "We are committed to our employees, customers, and the industries we serve. Our dedication to researching new technologies helps us provide the best solutions possible."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "title": "Responsibility",
+      "description": "We make ethical, sound decisions in our business and for the environment."
+    },
+    {
+      "icon": "fas fa-cogs",
+      "title": "Custom Engineering",
+      "description": "Every production line is different—so your automation solution should be, too. We thrive on complexity, turning challenges into smart, scalable solutions."
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Partnership Approach",
+      "description": "We don't just sell equipment—we act as true partners to our clients. We ask the right questions, explore your environment and challenges, and provide multiple options."
+    },
+    {
+      "icon": "fas fa-graduation-cap",
+      "title": "Education & Consulting",
+      "description": "What sets us apart is our consultative, educational approach. If the best solution isn't ours, we'll connect you with one of our partners."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "I trust Chris and Mr. IIoT's team implicitly. Chris and his team listen, understand, and interpret our needs to create a customized solution instead of pushing some canned thing.",
+      "author": "Rob Wienhoff",
+      "role": "President",
+      "company": "Chicago Coding Systems"
+    }
+  ],
+  "gallery": [
+    "https://chicagocoding.com/wp-content/uploads/2025/12/Mask-Group-121.jpg",
+    "https://chicagocoding.com/wp-content/uploads/2025/12/Mask-Group-122.jpg",
+    "https://chicagocoding.com/wp-content/uploads/2025/07/Rob-conference.jpg",
+    "https://chicagocoding.com/wp-content/uploads/2025/07/Why-choose-CCS.jpg",
+    "https://chicagocoding.com/wp-content/uploads/2025/07/Industry-experience.jpg",
+    "https://chicagocoding.com/wp-content/uploads/2026/02/Services.jpg"
+  ],
+  "images": {
+    "heroBackground": "https://chicagocoding.com/wp-content/uploads/2025/07/Custom-Solutions.jpg",
+    "aboutImage": "https://chicagocoding.com/wp-content/uploads/2025/12/Mask-Group-121.jpg",
+    "parallaxImage1": "https://chicagocoding.com/wp-content/uploads/2025/12/Mask-Group-122.jpg",
+    "parallaxImage2": "https://chicagocoding.com/wp-content/uploads/2025/07/Rob-conference.jpg"
+  },
+  "seo": {
+    "siteTitle": "Chicago Coding Systems - Custom Solutions for Modern Manufacturing",
+    "siteDescription": "Custom marking, coding, labeling, and scanning solutions for modern manufacturing. Over 60 years of expertise delivering precision-engineered automated systems tailored to your production needs.",
+    "keywords": "Marking, Coding, Labeling, Scanning, Print and Apply, Barcode, Manufacturing, Custom Solutions, Automation, Industrial Printing, Label Applicators, Vision Systems",
+    "ogImage": "https://chicagocoding.com/wp-content/uploads/2025/07/Custom-Solutions.jpg"
+  },
+  "footer": {
+    "tagline": "Chicago Coding Systems can maximize your production efficiency.",
+    "copyright": "Chicago Coding Systems"
+  },
+  "process": [
+    {
+      "title": "Assessment",
+      "shortDesc": "Understanding your production needs",
+      "fullDesc": "We begin by thoroughly understanding your current production operations, challenges, and goals. This includes site visits, line walkthroughs, and assessment of existing systems to identify the right approach for your specific environment.",
+      "deliverables": [
+        "Line walkthrough",
+        "Production assessment",
+        "Requirements gathering",
+        "Environment analysis"
+      ]
+    },
+    {
+      "title": "Design",
+      "shortDesc": "Engineering the right solution",
+      "fullDesc": "Based on assessment findings, we design a tailored automation solution that integrates with your existing systems. We select the right equipment from industry-leading brands and create a detailed integration plan for your production line.",
+      "deliverables": [
+        "System design",
+        "Equipment selection",
+        "Integration planning",
+        "Custom engineering"
+      ]
+    },
+    {
+      "title": "Implementation",
+      "shortDesc": "Building and integrating your system",
+      "fullDesc": "Our team builds and integrates your custom solution, handling everything from equipment installation to software configuration and network integration. We ensure seamless connection with your existing ERP, WMS, and production systems.",
+      "deliverables": [
+        "Equipment installation",
+        "Software configuration",
+        "System integration",
+        "Testing and validation"
+      ]
+    },
+    {
+      "title": "Support",
+      "shortDesc": "Ongoing partnership and optimization",
+      "fullDesc": "We provide 24/7 technical support with a 4-hour response guarantee, inventory management for consumables, and ongoing optimization to keep your production running at peak efficiency. Our partnership doesn't end at installation.",
+      "deliverables": [
+        "24/7 technical support",
+        "Inventory management",
+        "Performance optimization",
+        "Continuous improvement"
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "problem": "Manual Labeling Doesn't Scale",
+      "solution": "Manually labeling thousands of items isn't sustainable. We design automated solutions that streamline labeling and reduce errors across your production line."
+    },
+    {
+      "problem": "Disconnected Data Systems",
+      "solution": "Connecting labeling systems with WMS and ERP platforms can be costly and IT-heavy. Our discovery process identifies the right approach, often using middleware to integrate without major IT projects."
+    },
+    {
+      "problem": "Labels Failing in Harsh Environments",
+      "solution": "Cold storage, freezers, and high-moisture conditions test the limits of standard labels. We test and design labels, adhesives, and inks proven to withstand challenging environments."
+    },
+    {
+      "problem": "Compliance Requirements",
+      "solution": "From hazmat labeling to regulatory requirements, we guide you through necessary standards to ensure shipments are compliant and traceable across all industries."
+    },
+    {
+      "problem": "One-Size-Fits-All Solutions Don't Work",
+      "solution": "Every production line is different. We go beyond one-size-fits-all offerings to deliver the right fit, and if the best solution isn't ours, we'll connect you with a partner."
+    },
+    {
+      "problem": "Equipment Downtime",
+      "solution": "Production never stops, and neither do we. Our 24/7 support team with a 4-hour response guarantee keeps your operation running smoothly."
+    },
+    {
+      "problem": "Vendor Lock-In",
+      "solution": "We're industrial print integrators, not distributors. We recommend what's best specifically for you, not what generates the highest commission."
+    },
+    {
+      "problem": "Complex Multi-Product Lines",
+      "solution": "Whether it's pharmaceuticals, food, automotive, or cannabis, our flexible systems handle individual components as well as full production and logistics workflows."
+    },
+    {
+      "problem": "Supply Chain Inconsistency",
+      "solution": "Our inventory management service ensures your coding and labeling supplies are always on hand, giving you consistent, hassle-free stock management."
+    },
+    {
+      "problem": "Operator Training Gaps",
+      "solution": "New systems fail without proper training. We provide hands-on training and documentation so your team can operate, troubleshoot, and maintain systems confidently."
+    }
+  ],
+  "audit": {
+    "title": "Free Production Assessment",
+    "subtitle": "Let's maximize your production efficiency",
+    "description": "We'd love to learn about your business and your operation. Discover how Chicago Coding Systems can help you run more efficiently with a complimentary assessment of your marking, coding, labeling, and scanning needs.",
+    "benefits": [
+      {
+        "icon": "fas fa-search",
+        "title": "Line Assessment",
+        "description": "Comprehensive evaluation of your current production line and identification of improvement opportunities."
+      },
+      {
+        "icon": "fas fa-balance-scale",
+        "title": "Vendor-Neutral Guidance",
+        "description": "Unbiased technology recommendations based on your specific environment and production goals."
+      },
+      {
+        "icon": "fas fa-file-alt",
+        "title": "Custom Recommendations",
+        "description": "Receive tailored solutions designed to improve efficiency, reduce errors, and streamline your operations."
+      },
+      {
+        "icon": "fas fa-headset",
+        "title": "24/7 Support",
+        "description": "Ongoing technical support with a 4-hour response guarantee to keep your production running."
+      },
+      {
+        "icon": "fas fa-industry",
+        "title": "Industry Expertise",
+        "description": "Over 60 years of experience across food, pharmaceutical, automotive, logistics, cannabis, and more."
+      }
+    ]
+  }
+}
